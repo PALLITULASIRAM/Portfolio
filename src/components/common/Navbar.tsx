@@ -141,8 +141,8 @@ export const Navbar = () => {
               >
                 {isResumePage ? (
                   <a
-                    href="/docs/Aarab_Nishchal_Resume.pdf"
-                    download="Aarab_Nishchal_Resume.pdf"
+                    href="/docs/Resume.pdf"
+                    download="Resume.pdf"
                     onClick={() => setIsMenuOpen(false)}
                     className="flex items-center justify-center"
                   >

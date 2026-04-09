@@ -15,14 +15,14 @@ import {
 } from "@/lib/structured-data";
 
 export const metadata: Metadata = {
-  applicationName: "Aarab Nishchal",
-  title: "Aarab Nishchal | Full Stack Developer & AI Engineer",
+  applicationName: "PALLI TULASIRAM",
+  title: "PALLI TULASIRAM | Full Stack Developer & AI Engineer",
   description:
-    "Aarab Nishchal is a student developer passionate about building modern web apps with Next.js, React, and open-source tools. Explore his projects, experiments, and developer portfolio.",
+    "PALLI TULASIRAM is a student developer passionate about building modern web apps with Next.js, React, and open-source tools. Explore his projects, experiments, and developer portfolio.",
   authors: [
     {
       name: "PALLI TULASIRAM",
-      url: "https://aarab.vercel.app",
+      url: "https://pallitulasiram.vercel.app",
     },
   ],
   creator: "PALLI TULASIRAM",
