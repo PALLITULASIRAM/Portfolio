@@ -3,22 +3,22 @@ import { resumeKeywords } from "@/constant";
 import { generateResumeStructuredData } from "@/lib/structured-data";
 
 export const metadata: Metadata = {
-  title: "Resume - Aarab Nishchal",
+  title: "Resume - PALLI TULASIRAM",
   description:
-    "View and download Aarab Nishchal's professional resume. Student developer with expertise in React, Next.js, and full-stack development.",
+    "View and download PALLI TULASIRAM's professional resume. Student developer with expertise in React, Next.js, and full-stack development.",
   keywords: resumeKeywords,
   openGraph: {
-    title: "Resume - Aarab Nishchal",
+    title: "Resume - PALLI TULASIRAM",
     description:
-      "View and download Aarab Nishchal's professional resume featuring his experience and skills as a student developer.",
-    url: "https://aarab.vercel.app/resume",
-    siteName: "Aarab Nishchal",
+      "View and download PALLI TULASIRAM's professional resume featuring his experience and skills as a student developer.",
+    url: "https://pallitulasiram.vercel.app/resume",
+    siteName: "PALLI TULASIRAM",
     images: [
       {
         url: "/images/thumbnail.png",
         width: 1200,
         height: 630,
-        alt: "Aarab Nishchal Resume",
+        alt: "PALLI TULASIRAM Resume",
       },
     ],
   },
