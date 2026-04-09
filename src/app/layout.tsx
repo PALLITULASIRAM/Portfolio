@@ -21,22 +21,22 @@ export const metadata: Metadata = {
     "Aarab Nishchal is a student developer passionate about building modern web apps with Next.js, React, and open-source tools. Explore his projects, experiments, and developer portfolio.",
   authors: [
     {
-      name: "Aarab Nishchal",
+      name: "PALLI TULASIRAM",
       url: "https://aarab.vercel.app",
     },
   ],
-  creator: "Aarab Nishchal",
+  creator: "PALLI TULASIRAM",
   referrer: "origin-when-cross-origin",
   category: "Portfolio",
   classification: "Software Development",
   keywords: Keywords,
-  metadataBase: new URL("https://aarab.vercel.app"),
+  metadataBase: new URL("https://pallitulasiram.vercel.app"),
 
 
   alternates: {
-    canonical: "https://aarab.vercel.app",
+    canonical: "https://pallitulasiram.vercel.app",
     languages: {
-      "en-US": "https://aarab.vercel.app",
+      "en-US": "https://pallitulasiram.vercel.app",
     },
   },
   robots: {
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
   },
   appleWebApp: {
     capable: true,
-    title: "Aarab Nishchal",
+    title: "PALLI TULASIRAM",
     statusBarStyle: "black-translucent",
   },
   formatDetection: {
@@ -92,17 +92,17 @@ export const metadata: Metadata = {
   manifest: "/manifest.json",
 
   openGraph: {
-    title: "Aarab Nishchal",
+    title: "PALLI TULASIRAM",
     description:
-      "Explore Aarab Nishchal’s portfolio featuring projects in React, Next.js, AI, and developer tools. Discover a world of creative web applications and open-source experiments.",
-    url: "https://aarab.vercel.app",
-    siteName: "Aarab Nishchal",
+      "Explore PALLI TULASIRAM’s portfolio featuring projects in React, Next.js, AI, and developer tools. Discover a world of creative web applications and open-source experiments.",
+    url: "https://pallitulasiram.vercel.app",
+    siteName: "PALLI TULASIRAM",
     images: [
       {
         url: "/images/thumbnail.png",
         width: 1200,
         height: 630,
-        alt: "Aarab Nishchal Portfolio Thumbnail",
+        alt: "PALLI TULASIRAM Portfolio Thumbnail",
       },
     ],
     locale: "en_US",
@@ -112,12 +112,12 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Aarab Nishchal",
+    title: "PALLI TULASIRAM",
     description:
-      "Check out Aarab Nishchal’s personal portfolio and dev projects using Next.js, React, Tailwind, and modern web tech.",
+      "Check out PALLI TULASIRAM’s personal portfolio and dev projects using Next.js, React, Tailwind, and modern web tech.",
     images: ["/images/thumbnail.png"],
-    creator: "@aarab_ii",
-    site: "@aarab_ii",
+    creator: "@pallitulasiram",
+    site: "@pallitulasiram",
   },
 };
 

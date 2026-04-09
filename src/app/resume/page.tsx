@@ -165,7 +165,7 @@ export default function Resume() {
               >
                 <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/10 to-transparent transform -skew-x-12 -translate-x-full group-hover:translate-x-full transition-transform duration-700 pointer-events-none" />
                 <HiDownload className="w-4 h-4 relative z-10 pointer-events-none" />
-                {/* <span className="relative z-10 pointer-events-none">Download PDF</span> */}
+                <span className="relative z-10 pointer-events-none">Download PDF</span>
               </motion.a>
             </div>
           </motion.div>
